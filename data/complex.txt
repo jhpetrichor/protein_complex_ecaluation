@@ -1,0 +1,3 @@
+AA  BB   CC
+AA  BB   DD
+DA  CD   GS    GS
